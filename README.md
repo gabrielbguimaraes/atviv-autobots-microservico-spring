@@ -1,8 +1,8 @@
-# AutoBots — Atualização Segurança (ATVIV)
+# AutoBots — ATVIV
 
 **Disciplina:** Desenvolvimento Web III  
 **Professor:** Prof. Dr. Eng. Gerson Penha  
-**Atividade Prática:** ATVIV — Autenticação e Autorização Stateless via JSON Web Token (JWT) e Controle de Acesso Baseado em Perfis e Propriedade (RBAC + Ownership)
+
 
 ---
 
